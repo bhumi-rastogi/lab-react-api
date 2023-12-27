@@ -1,0 +1,33 @@
+.book-details {
+    align-items: center;
+    border-radius: 3px;
+    display: flex;
+  }
+  
+  .book-details img {
+    margin-right: 12px;
+  }
+  
+  .book p {
+    margin-top: 7px;
+  }
+
+  .book-details p {
+    flex: 2;
+  }
+
+.book {
+    border-radius: 6px;
+    border: 1px solid #41838b;
+    padding: 12px;
+    box-shadow: 2px 4px #051e2a;
+    margin-bottom: 14px;
+    background-color: rgb(220, 201, 175);
+  }
+  
+  .book h2 {
+    margin-bottom: 7px;
+  }
+  
+
+  
